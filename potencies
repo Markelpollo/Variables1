@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "Digues un nombre"
+read a
+echo "Digues un altre nombre"
+read b
+
+echo "La base es $a i l'exponent es $b"
+if [ $b -gt 0 ];then 
+let res=$a^$b
+echo "La resposta es $res"
+
+fi
+
+if [ $b -eq 0 ];then
+let res=1
+echo "La solució es $res"
+
+fi
