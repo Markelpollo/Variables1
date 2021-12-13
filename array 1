@@ -1,3 +1,5 @@
+#Markel Servera
+
 #!/bin/bash
 
 PARAULES=( H a l h b )
