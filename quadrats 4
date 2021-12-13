@@ -1,3 +1,5 @@
+#Markel Servera
+
 echo Quin número vols?
 read m
 a=0
