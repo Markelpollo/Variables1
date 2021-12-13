@@ -1,3 +1,5 @@
+#Markel Servera
+
 echo "Digues un nombre"
 read n
 let RESTO=$n%2
