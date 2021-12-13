@@ -1,3 +1,5 @@
+#Markel Servera
+
 #!/bin/bash
 
 echo "Digues un nombre"
