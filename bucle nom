@@ -1,0 +1,5 @@
+#Markel Servera
+
+for var in bones hem diuen Markel Servera Sisamón;do
+    printf $var 
+done
